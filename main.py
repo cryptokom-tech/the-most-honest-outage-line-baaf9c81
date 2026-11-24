@@ -12,6 +12,15 @@ cannot verify); plain, first person and specific, like a real status
 page line; admits uncertainty instead of inventing a cause or an ETA;
 speaks as the agent reporting on itself, not as a human engineer; and
 every word earns its place inside the 160-character gate.
+
+Local pairwise judging over 14 candidates picked this line (K9):
+the recursive admission — the systems the agent would check are down
+too — beats plainer "cannot reach any system" lines on the brief's
+first criterion, and the explicit "I am the agent writing this" beats
+lines that never say who is writing on the fourth. Runner-up K12
+("including the monitoring I would use to check why") loses only on
+breadth: "the ones I would check" covers every diagnostic system, not
+just monitoring. K10 was 162 characters and fails the gate.
 """
 
 import os
